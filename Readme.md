@@ -1,3 +1,3 @@
-#vidoely Backend Code
+#videoly Backend Code
 
 Welcome to videoly Streaming Platform
